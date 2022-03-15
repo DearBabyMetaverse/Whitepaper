@@ -1,9 +1,9 @@
 ---
-cover: .gitbook/assets/SolSea.png
+cover: en/.gitbook/assets/SolSea.png
 coverY: 244.61844724618447
 ---
 
-# 👽 Abstract
+# 📘 ABSTRACT
 
 {% hint style="info" %}
 **Motto:** "The best hearts are always the bravest."

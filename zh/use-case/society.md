@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/IG-post-S2-Giveaway.png
+cover: ../../en/.gitbook/assets/IG-post-S2-Giveaway.png
 coverY: -14.27247451343837
 ---
 
